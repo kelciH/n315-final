@@ -1,0 +1,123 @@
+.login-page {
+    
+    height: 100%;
+    height: 100vh;
+    color: #473036;
+    
+    .inputs {
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        
+        
+        .login {
+            margin: 20px;
+            
+
+            #login-form {
+                display: flex;
+                flex-direction: column;
+                align-items: left;
+                justify-content: space-evenly;
+                margin-top: 283px;
+                margin-bottom: 226px;
+                font-family: "CR";
+
+                h1 {
+                    margin-bottom: 62px;
+                }
+            
+            input {
+                width: 233px;
+                height: 25px;
+                border: none;
+                
+                border-bottom: 2px solid #000;
+                margin-bottom: 56px;
+
+                
+            }
+
+            input::placeholder {
+                color: #473036;
+                font-family: "CR";
+            }
+
+        button {
+            width: 209px;
+            height: 52px;
+            background-color: #ece9e4;
+            border-radius: 26px;
+            box-shadow: 0px 10px 3px rgba(74, 73, 73, 0.3);
+            color: #473036;
+            border: none;
+            margin: 0 auto;
+            cursor: pointer;
+            font-family: "CR";
+            font-size: 25px;
+        }
+
+        button:hover {
+      transform: scale(1.1);
+      transition: 0.3s;
+
+    }
+    }
+    }
+
+        .sign-up {
+            
+            margin: 20px;
+            #sign-up-form {
+                display: flex;
+            flex-direction: column;
+            align-items: left;
+            justify-content: space-evenly;
+            margin-top: 175px;
+            margin-bottom: 175px;
+            font-family: "CR";
+                
+            h1 {
+                margin-bottom: 62px;
+                
+            }
+
+            input {
+                width: 233px;
+                height: 25px;
+                border: none;
+
+                
+                border-bottom: 2px solid #000;
+                margin-bottom: 56px;
+
+                
+            }
+            
+            input::placeholder {
+                color: #473036;
+                font-family: "CR";
+            }
+            button {
+                width: 209px;
+                height: 52px;
+                background-color: #ece9e4;
+                border-radius: 26px;
+                box-shadow: 0px 10px 3px rgba(74, 73, 73, 0.3);
+                color: #473036;
+                border: none;
+                margin: 0 auto;
+                cursor: pointer;
+                font-family: "CR";
+                font-size: 25px;
+            }
+
+            button:hover {
+      transform: scale(1.1);
+      transition: 0.3s;
+    }
+        }
+    }
+    }
+}

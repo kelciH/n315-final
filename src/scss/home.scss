@@ -1,0 +1,359 @@
+.home {
+    
+
+    .banner {
+        max-width: 100%;
+        width: 100%;
+        height: 120px;
+        background-color: #473036;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        padding-top: 10px;
+        
+        p {
+            
+            color: #fff;
+            width: 300px;
+            text-align: center;
+            margin-bottom: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 100;
+
+        }
+
+        .line {
+            height: 80px;
+            width: 2px;
+            background-color: #fff;
+        }
+
+        .words {
+            
+        }
+    }
+
+    .content {
+        margin: 0 auto;
+        max-width: 1200px;
+        width: 100%;
+        height: 100vh;
+       // background-color: lightblue;
+
+        .top-img {
+            height: 200px;
+            width: 100%;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-image: url(/public/images-final/header.webp);
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+
+        .dropdowns {
+            width: 100%;
+            height: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            
+
+            .boxes {
+                width: 650px;
+                height: 100%;
+                //background-color: lightcoral;
+                margin-right: 333px;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                
+                color: #473036;
+            font-size: 15px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: lighter;
+
+                .drop-img {
+                    height: 40px;
+                    width: 46px;
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: contain;
+                    background-image: url(/public/images-final/arrow.png);
+                }
+
+                .catagory {
+                    
+                    width: 135px;
+                    height: 50px;
+                    border: 3px solid #999999;
+                    display: flex;
+                    align-items: center;
+                    justify-content: space-evenly;
+                    background-color: #FFFFFF;
+                    border-radius: 3px;
+
+                    p {
+                        margin-top: 17px;
+                    }
+                }
+                .feature {
+                    width: 121px;
+                    height: 50px;
+                    border: 3px solid #999999;
+                    display: flex;
+                    align-items: center;
+                    justify-content: space-evenly;
+                    background-color: #FFFFFF;
+                    border-radius: 3px;
+
+                    p {
+                        margin-top: 17px;
+                    }
+                }
+                .brew {
+                    width: 130px;
+                    height: 50px;
+                    border: 3px solid #999999;
+                    display: flex;
+                    align-items: center;
+                    justify-content: space-evenly;
+                    background-color: #FFFFFF;
+                    border-radius: 3px;
+
+                    p {
+                        margin-top: 17px;
+                    }
+                }
+                .resivoir {
+                    width: 123px;
+                    height: 50px;
+                    border: 3px solid #999999;
+                    display: flex;
+                    align-items: center;
+                    justify-content: space-evenly;
+                    background-color: #FFFFFF;
+                    border-radius: 3px;
+
+                    p {
+                        margin-top: 17px;
+                    }
+                }
+                .color {
+                    width: 97px;
+                    height: 50px;
+                    border: 3px solid #999999;
+                    border-radius: 3px;
+                    display: flex;
+                    align-items: center;
+                    justify-content: space-evenly;
+                    background-color: #FFFFFF;
+                    
+
+                    p {
+                        margin-top: 17px;
+                    }
+                }
+            }
+
+            .sortby {
+                width: 200px;
+                height: 100%;
+                background-color: #FFFFFF;
+                display: flex;
+                align-items: center;
+                justify-content: space-evenly;
+                
+                
+                .text {
+                    text-align: center;
+                    color: #473036;
+                    
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-weight: lighter;
+                    margin-top: 12px;
+
+                    p {
+                        margin-bottom: 0px;
+                        font-size: 10px;
+                    }
+
+                    h1 {
+                        font-size: 15px;
+                    }
+
+                }
+
+                .drop-img {
+                    height: 46px;
+                    width: 46px;
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: contain;
+                    background-image: url(/public/images-final/arrow.png);
+                }
+            }
+        }
+
+        .coffee-makers {
+            margin-top: 40px;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: space-evenly;
+            
+            .box {
+                width: 280px;
+                height: 750px;
+                background-color: #fff;
+               margin-bottom: 20px;
+               box-shadow: 5px 5px 5px gray;
+               margin-right: 10px;
+               margin-left: 10px;
+
+               .coffee-banner {
+                height: 19px;
+                width: 200px;
+                background-color: #007C91; 
+                border-radius: 2px;  
+
+                p {
+                    font-size: 12px;
+                    text-align: center;
+                    color: #fff;
+                }
+               }
+
+               img {
+                width: 100%;
+                height: 230px;
+                margin-top: 73px;
+                margin-bottom: 10px;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;
+               }
+
+               .coffee-color {
+                height: 20px;
+                width: 20px;
+                border-radius: 50%;
+                background-color: #000;
+                margin-left: 20px;
+                margin-bottom: 30px;
+               }
+
+               .coffee-name {
+                p {
+                    margin-left: 13px;
+                }
+               }
+
+               .coffee-price {
+                width: 100%;
+                height: 70px;
+                //background-color: lightgray;
+                margin-left: 13px;
+
+                h1 {
+                        margin-right: 50px;
+                        font-size: 15px;
+                        color: #D51610;
+                    }
+
+                    p {
+                        font-size: 14px;
+                    }
+
+                .top {
+                    height: 30px;
+                    display: flex;
+                    align-items: center;
+                    justify-content: left;
+                
+                }
+
+                .line {
+                    width: 200px;
+                    height: 1px;
+                    background-color: gray;
+                    margin-top: 10px;
+                    margin-bottom: 10px;
+                }
+
+                .bottom {
+                    //height: 30px;
+                    display: flex;
+                    align-items: center;
+                    justify-content: left;
+                    
+                }
+                
+               }
+
+               .coffee-reviews {
+                display: flex;
+                align-items: center;
+                justify-content: space-evenly;
+                
+                width: 200px;
+                margin-left: 13px;
+
+                .star-icon {
+                    height: 15px;
+                    width: 15px;
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    background-image: url(/public/images-final/gradient-1293852_640.png);
+                }
+
+                p {
+                    margin-top: 18px;
+                }
+               }
+
+               .coffee-shiping {
+                margin-left: 13px;
+                margin-bottom: 50px;
+
+                p {
+                    font-size: 20px;
+                }
+               }
+
+               .coffee-compare {
+                display: flex;
+                margin-left: 13px;
+                
+                
+                .check-box {
+                    height: 16px;
+                    width: 16px;
+                    border: 2px solid gray;
+                    margin-right: 10px;
+                }
+
+                p {
+                    font-size: 14px;
+                    color: #0057B3;
+                }
+               }
+
+               .coffee-buy {
+                width: 250px;
+                height: 50px;
+                border: 2px solid #F1BE48;
+                margin: 0 auto;
+                padding: 12px;
+                cursor: pointer;
+
+                p {
+                    font-size: 18px;
+                    text-align: center;
+                }
+               }
+            }
+        }
+    }
+}

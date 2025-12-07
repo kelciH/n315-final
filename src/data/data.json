@@ -1,0 +1,300 @@
+{
+    "Coffee": [
+        {
+            "id": 0,
+            "featured": true,
+            "coffeeBanner": "EXCLUSIVE COLORS AVALABLE",
+            "coffeeImg": "/public/images-final/Keurig-Mini-Mate_5000390768_swatch.webp",
+            "coffeeName": "K-Mini Mate™ Coffee Maker",
+            "price1": 19.99,
+            "price2": 49.99,
+            "siteDeal": 40.00
+            
+        },
+        {
+            "id": 1,
+            "featured": true,
+            "coffeeBanner": "EXCLUSIVE DEAL",
+            "coffeeImg": "/public/images-final/second.webp",
+            "coffeeName": "K-Cafe™ Special Edition Single Serve Coffee Latte & Cappuccino Maker",
+            "price1": 57.99,
+            "price2": 129.99,
+            "siteDeal": 90.00
+        },
+        {
+            "id": 2,
+            "featured": true,
+            "coffeeBanner": "EXCLUSIVE DEAL",
+            "coffeeImg": "/public/images-final/third.webp",
+            "coffeeName": "K-Supreme Plus™ Single Serve Coffee Maker",
+            "price1": 64.99,
+            "price2": 99.99,
+            "siteDeal": 90.00
+            
+        },
+        {
+            "id": 3,
+            "featured": true,
+            "coffeeBanner": "EXCLUSIVE DEAL",
+            "coffeeImg": "/public/images-final/fourth.webp",
+            "coffeeName": "K-Iced Plus™ Single Serve Coffee Maker",
+            "price1": 57.99,
+            "price2": 69.99,
+            "siteDeal": 80.00
+            
+        },
+        {
+            "id": 4,
+            "featured": true,
+            "coffeeBanner": "SAVE 50% BY BUILDING A KIT",
+            "coffeeImg": "/public/images-final/fifth.webp",
+            "coffeeName": "K-Crema™ High Pressure Coffee Maker",
+            "price1": 99.99,
+            "price2": 149.99,
+            "siteDeal": 70.00
+            
+        },
+        {
+            "id": 5,
+            "featured": true,
+            "coffeeBanner": "SAVE 50% BY BUILDING A KIT",
+            "coffeeImg": "/public/images-final/sixth.webp",
+            "coffeeName": "K-Brew + Chill™ Coffee Maker - Makes Cold Iced Coffee",
+            "price1": 99.99,
+            "price2": 169.99,
+            "siteDeal": 30.00
+            
+        },
+        {
+            "id": 6,
+            "featured": true,
+            "coffeeBanner": "OVER 50% WHEN YOU BUILD A KIT",
+            "coffeeImg": "/public/images-final/seventh.webp",
+            "coffeeName": "K-Duo™ & Iced Single Serve & Carafe Coffee Maker (Gen 2)",
+            "price1": 57.99,
+            "price2": 149.99,
+            "siteDeal": 70.00
+            
+        },
+        {
+            "id": 7,
+            "featured": true,
+            "coffeeBanner": "SAVE 50% BY BUILDING A KIT",
+            "coffeeImg": "/public/images-final/ninth.webp",
+            "coffeeName": "Keurig™ K-Classic™ Coffee Maker",
+            "price1": 57.99,
+            "price2": 99.99,
+            "siteDeal": 70.00
+            
+        },
+        {
+            "id": 8,
+            "featured": true,
+            "coffeeBanner": "OVER 50% WHEN YOU BUILD A KIT",
+            "coffeeImg": "/public/images-final/tenth.webp",
+            "coffeeName": "Keurig™ K-Elite™ Single Serve Coffee Maker",
+            "price1": 57.99,
+            "price2": 129.99,
+            "siteDeal": 80.00
+            
+        },
+        {
+            "id": 9,
+            "featured": true,
+            "coffeeBanner": "130$ OFF WHEN YOU BUILD A KIT",
+            "coffeeImg": "/public/images-final/eleventh.webp",
+            "coffeeName": "K-Supreme™ SMART Single Serve Coffee Maker",
+            "price1": 49.99,
+            "price2": 129.99,
+            "siteDeal": 50.99
+            
+        },
+        {
+            "id": 10,
+            "featured": true,
+            "coffeeBanner": "EXCLUSIVE DEAL",
+            "coffeeImg": "/public/images-final/twelfth.webp",
+            "coffeeName": "K-Café™ SMART Single Serve Coffee Maker",
+            "price1": 99.99,
+            "price2": 159.99,
+            "siteDeal": 40.00
+            
+        },
+        {
+            "id": 11,
+            "featured": true,
+            "coffeeBanner": "SAVE 50% BY BUILDING A KIT",
+            "coffeeImg": "/public/images-final/thirteenth.webp",
+            "coffeeName": "K-Supreme Plus™ SMART Single Serve Coffee Maker",
+            "price1": 99.99,
+            "price2": 175.99,
+            "siteDeal": 24.99
+            
+        },
+        {
+            "id": 12,
+            "featured": true,
+            "coffeeBanner": "SAVE 50% BY BUILDING A KIT",
+            "coffeeImg": "/public/images-final/fourteenth.webp",
+            "coffeeName": "K-Iced™ Single Serve Coffee Maker",
+            "price1": 64.99,
+            "price2": 79.99,
+            "siteDeal": 50.00
+            
+        },
+        {
+            "id": 13,
+            "featured": true,
+            "coffeeBanner": "50% OFF WHEN YOU BUILD A KIT",
+            "coffeeImg": "/public/images-final/fifteenth.webp",
+            "coffeeName": "K-Mini Plus™ Single Serve Coffee Maker",
+            "price1": 59.99,
+            "price2": 109.99,
+            "siteDeal": 10.00
+            
+        },
+        {
+            "id": 14,
+            "featured": true,
+            "coffeeBanner": "50% OFF WHEN YOU BUILD A KIT",
+            "coffeeImg": "/public/images-final/sixteenth.webp",
+            "coffeeName": "Keurig™ K-Supreme™ Single Serve Coffee Maker",
+            "price1": 57.99,
+            "price2": 99.99,
+            "siteDeal": 90.99
+            
+        },
+        {
+            "id": 15,
+            "featured": true,
+            "coffeeBanner": "SALE - NO CODE REQUIRED",
+            "coffeeImg": "/public/images-final/seventeenth.webp",
+            "coffeeName": "K-Café™ Single Serve Coffee Latte & Cappuccino Maker",
+            "price1": 89.99,
+            "price2": 119.99,
+            "siteDeal": 80.00
+            
+        },
+        {
+            "id": 16,
+            "featured": true,
+            "coffeeBanner": "OVER 50% WHEN YOU BUILD A KIT",
+            "coffeeImg": "/public/images-final/eighteenth.webp",
+            "coffeeName": "K-Slim™ Single Serve Coffee Maker",
+            "price1": 57.99,
+            "price2": 109.99,
+            "siteDeal": 40.00
+            
+        },
+        {
+            "id": 17,
+            "featured": true,
+            "coffeeBanner": "50% OFF WHEN YOU BUILD A KIT",
+            "coffeeImg": "/public/images-final/ninteenth.webp",
+            "coffeeName": "K-Mini™ Single Serve Coffee Maker",
+            "price1": 49.99,
+            "price2": 59.49,
+            "siteDeal": 40.50
+            
+        },
+        {
+            "id": 18,
+            "featured": true,
+            "coffeeBanner": "KEURIG.COM EXCLUSIVE",
+            "coffeeImg": "/public/images-final/twentyeth.webp",
+            "coffeeName": "K-Iced™ Coastal Collection Fin",
+            "price1": 99.99,
+            "price2": 69.99,
+            "siteDeal": 40.00
+            
+        },
+        {
+            "id": 19,
+            "featured": true,
+            "coffeeBanner": "KEURIG.COM EXCLUSIVE",
+            "coffeeImg": "/public/images-final/twenty1.webp",
+            "coffeeName": "Keurig™ K-Café™ Barista Bar Single Serve Coffee Maker and Frother",
+            "price1": 69.99,
+            "price2": 99.99,
+            "siteDeal": 40.00
+            
+        },
+        {
+            "id": 20,
+            "featured": true,
+            "coffeeBanner": "",
+            "coffeeImg": "/public/images-final/twenty2.webp",
+            "coffeeName": "K-Express™ Single Serve Coffee Maker",
+            "price1": 79.99,
+            "price2": 99.99,
+            "siteDeal": 30.00
+            
+        },
+        {
+            "id": 21,
+            "featured": true,
+            "coffeeBanner": "SALE - NO CODE REQUIRED",
+            "coffeeImg": "/public/images-final/twenty3.webp",
+            "coffeeName": "Keurig™ K-Compact™ Coffee Maker",
+            "price1": 89.99,
+            "price2": 49.99,
+            "siteDeal": 10.99
+            
+        },
+        {
+            "id": 22,
+            "featured": true,
+            "coffeeBanner": "",
+            "coffeeImg": "/public/images-final/twenty4.webp",
+            "coffeeName": "K-1550™ Large Reservoir Coffee Maker - Home or Business Use",
+            "price1": 259.99,
+            "price2": 145.99,
+            "siteDeal": 40.00
+            
+        },
+        {
+            "id": 23,
+            "featured": true,
+            "coffeeBanner": "",
+            "coffeeImg": "/public/images-final/twenty5.webp",
+            "coffeeName": "Keurig K-2550™ Medium Business Coffee Maker - Pour Over Water...",
+            "price1": 749.99,
+            "price2": 657.99,
+            "siteDeal": 90.00
+            
+        },
+        {
+            "id": 24,
+            "featured": true,
+            "coffeeBanner": "NEW",
+            "coffeeImg": "/public/images-final/twenty6.webp",
+            "coffeeName": "Florence by Mills Coffee x Keurig™ Brewer Bundle",
+            "price1": 139.99,
+            "price2": 175.99,
+            "siteDeal": 35.97
+            
+        },
+        {
+            "id": 25,
+            "featured": true,
+            "coffeeBanner": "KEURIG.COM EXCLUSIVE",
+            "coffeeImg": "/public/images-final/twenty7.webp",
+            "coffeeName": "Florence by Mills Coffee x Keurig™ K-Iced™ Single Serve Coffee Maker",
+            "price1": 139.99,
+            "price2": 120.99,
+            "siteDeal": 40.00
+            
+        },
+        {
+            "id": 26,
+            "featured": true,
+            "coffeeBanner": "",
+            "coffeeImg": "/public/images-final/twenty8.webp",
+            "coffeeName": "Cozy Coffee Gift Set Bundle",
+            "price1": 69.99,
+            "price2": 126.47,
+            "siteDeal": 56.48
+            
+        }
+    ]
+}
