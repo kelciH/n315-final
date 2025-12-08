@@ -29,7 +29,7 @@ $("#app").on("click", ".coffee-buy", function (e) {
   const coffeeId = Number($(this).data("id"));
   console.log(coffeeId);
 
-  $.getJSON("/src/data/data.json", (data) => {
+  $.getJSON("/data/data.json", (data) => {
 
     // find the correct item
     const cart = data.Coffee.find(item => item.id === coffeeId);
@@ -64,7 +64,7 @@ $("#remove").on("click", function () {
 });
 
 function initCoffee() {
-    $.getJSON("/src/data/data.json", (data) => {
+    $.getJSON("/data/data.json", (data) => {
         console.log(data.Coffee);
 //${books.cover_image}
         $.each(data.Coffee, (index, coffee) => {
